@@ -3,4 +3,5 @@
 		echo "hi git2";
 		echo "new";
 		echo "master";
+		echo "master2";
 		
